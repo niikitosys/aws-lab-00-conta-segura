@@ -40,5 +40,3 @@ Também compreendi a importância de prevenir acessos indevidos e monitorar os g
 - AWS IAM
 - AWS Billing and Cost Management
 - AWS Budgets
-- GitHub
-- Markdown
