@@ -25,7 +25,7 @@ Este laboratório tem como objetivo aplicar boas práticas de segurança e contr
 ## Evidências
 
 ### MFA ativo
-![MFA ativo](prints/mfa-ativo.png)
+![MFA ativo](prints/mfa-ativo.PNG)
 
 ### AWS Budget
 ![Orçamento AWS](prints/aws-budget.png)
